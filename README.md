@@ -1,1 +1,1 @@
-Online Learning Platform using MERN stack
+Naan Mudhalvan Project
